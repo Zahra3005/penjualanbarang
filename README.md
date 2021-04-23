@@ -1,2 +1,2 @@
 # penjualanbarang
-Penjualan barang di toko x
+Penjualan barang di Toko X menggunakan CodeiIgniter 3
